@@ -1,0 +1,6 @@
+F:\School\Fall 2014\OOP1 & OOP2\Homework\Chapter 8\Auction\Auction\bin\Debug\Auction.exe.config
+F:\School\Fall 2014\OOP1 & OOP2\Homework\Chapter 8\Auction\Auction\bin\Debug\Auction.exe
+F:\School\Fall 2014\OOP1 & OOP2\Homework\Chapter 8\Auction\Auction\bin\Debug\Auction.pdb
+F:\School\Fall 2014\OOP1 & OOP2\Homework\Chapter 8\Auction\Auction\obj\Debug\Auction.csprojResolveAssemblyReference.cache
+F:\School\Fall 2014\OOP1 & OOP2\Homework\Chapter 8\Auction\Auction\obj\Debug\Auction.exe
+F:\School\Fall 2014\OOP1 & OOP2\Homework\Chapter 8\Auction\Auction\obj\Debug\Auction.pdb
